@@ -40,4 +40,4 @@ inputs:
           argument: UnfollowBatched
   environment:
     variables: # 根据自己的需要修改
-      Ray_BiliBiliCookies__1: 123 # cookie，必填
+      Ray_BiliBiliCookies__1: _uuid=5BA65661-8199-4A3B-0ED5-AFFFA13AB72112351infoc;buvid4=D7ED7F30-EBC3-21BB-3888-ABF0F8AA69CD66732-022020714-R2lrPC9KjcmzmD78juDH+w%3D%3D;sid=b2f21koy;  # cookie，必填
